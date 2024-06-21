@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fourierer
-- 👀 I’m interested in CV and ML
-- 🌱 I’m currently learning Time Series Forecasting
+- 👀 I’m interested in Deep Learning, especially CV
+- 🌱 I used to work on human pose estimation and action recognition. I’m currently learning OCR and Large Vision Language Models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sunzheng2019@gmail.com
 
